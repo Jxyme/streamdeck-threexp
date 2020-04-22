@@ -1,0 +1,38 @@
+{
+    "Actions": [
+        {
+            "Icon": "Images/icon",
+            "Name": "3xP' Codjumper",
+            "States": [
+                {
+                    "Image": "Images/pluginAction",
+                    "TitleAlignment": "middle",
+                    "FontSize": "10"
+                }
+            ],
+            "SupportedInMultiActions": false,
+            "Tooltip": "Display what map is currently being played on the 3xP' Codjumper server, and more.",
+            "UUID": "dev.jayme.threexp.codjumper",
+            "PropertyInspectorPath": "PropertyInspector/codjumper.html"
+        }
+    ],
+    "Author": "Jayme",
+    "Name": "3xP' Codjumper",
+    "Description": "Display what map is currently being played on the 3xP' Codjumper server, and more.",
+    "Icon": "Images/pluginIcon",
+    "URL": "https://board.3xp-clan.com/thread/3758-release-3xp-codjumper-stream-deck-plugin/",
+    "Version": "1.0.3.1",
+    "CodePath": "dev.jayme.threexp",
+    "Category": "3xP' [Jayme]",
+    "CategoryIcon": "Images/categoryIcon",
+    "OS": [
+        {
+            "Platform": "windows",
+            "MinimumVersion": "10"
+        }
+    ],
+    "SDKVersion": 2,
+    "Software": {
+        "MinimumVersion": "4.3"
+    }
+}
