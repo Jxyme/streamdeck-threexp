@@ -19,17 +19,17 @@ Codjumper is a mod, and a home to Call of Duty glitches, exploits, jumps, nade t
 
 > What is threexp? (3xP)
 
-3xP' is an international mutligaming clan. You can learn, and see more of what we do on our [Website](https://3xp-clan.com/) or [YouTube](https://www.youtube.com/channel/UCIFzjEtaUue7Ldirx8me6lg).
+3xP' is an international multigaming clan. You can learn, and see more of what we do on our [Website](https://3xp-clan.com/) or [YouTube](https://www.youtube.com/channel/UCIFzjEtaUue7Ldirx8me6lg).
 
-* You can watch a video, presented by 3xP' showcasing some of the posiblities. 3xP' Clan presents.., [Some Bounces X](https://www.youtube.com/watch?v=vUG_2WJmnco).
+* You can watch a video, presented by 3xP' showcasing some of the posiblities. 3xP' Clan presents... [Some Bounces X](https://www.youtube.com/watch?v=vUG_2WJmnco).
 
 > I'm intrigued... how do I get started?
 
-In order to play on the 3xP' Codjumper server, you're required to have Call of Duty 4. [CDKeys](https://www.cdkeys.com/pc/games/call-of-duty-4-modern-warfare-pc-cd-key-steam) or [Steam](https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare/) has it available.
+In order to play on the 3xP' Codjumper server, you're required to have Call of Duty 4. [CDKeys](https://www.cdkeys.com/pc/games/call-of-duty-4-modern-warfare-pc-cd-key-steam) or [Steam](https://store.steampowered.com/app/7940/Call_of_Duty_4_Modern_Warfare/) has it for sale.
 
-Once you own Call of Duty 4, head over to the server browser -> add favourite and enter `s.3xp-clan.com:1337`.
+Once you own Call of Duty 4, head over to the server browser, click 'add favourite' and enter `s.3xp-clan.com:1337`.
 
-You can find server statistics, and more, on the 3xP' Statistics [webpage](https://stats.3xp-clan.com/server/7). (the plugin uses the 3xP' API)
+You can find server statistics, and more, on the 3xP' Statistics [web page](https://stats.3xp-clan.com/server/7). (the plugin uses the 3xP' API)
 
 ## Features
 
@@ -37,15 +37,15 @@ You can find server statistics, and more, on the 3xP' Statistics [webpage](https
 
 #### Display the Current Map
 
-The map currently playing will display on the Stream Deck key of your choice, simply drag the plugin onto the deck.
+The map currently playing will display on the Stream Deck key of your choice, simply drag and drop the plugin onto the deck.
 
 #### Display the Current Map & Player Count
 
-When this display setting is enabled, you'll be able to cycle through the currnet map, and the player count.
+When this display setting is enabled, the current map, and the player count will cycle on the key.
 
 #### Launch *any* Application
 
-Locate a file, folder and/or executable when the key is pressed. (this doesn't necessarily need to be **iw3mp.exe**)
+Open a file, folder and/or executable when the key is pressed. (this doesn't necessarily need to be **iw3mp.exe**)
 
 #### Launch *any* Application (with Arguments)
 
